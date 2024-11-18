@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325274878851",
+    "project_id": "my-travel-10035",
+    "storage_bucket": "my-travel-10035.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325274878851:android:e2868b4a2045e97ee26cb6",
+        "android_client_info": {
+          "package_name": "com.example.r08fullmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325274878851-bdvufuq10cbnpcform9dlm274uuuogba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUyVn0sowhF_IDKVbX5WsMqRCx8bVEqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325274878851-bdvufuq10cbnpcform9dlm274uuuogba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
